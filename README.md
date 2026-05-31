@@ -20,10 +20,10 @@ Right now I'm fascinated by **Large Language Models** and **Generative AI** — 
 
 - 🎓 Pursuing **B.Tech in AI & Data Science**
 - 🔭 Currently exploring: **Generative AI, LLMs, and Big Data systems**
-- 🛠️ Love building: **data pipelines, ML models, and algorithm visualizers**
-- 💬 Ask me about: **SQL, Spark, Python, AI/ML, or pathfinding algorithms**
+- 🛠️ Love building: **compilers, data pipelines, ML models, and algorithm visualizers**
+- 💬 Ask me about: **SQL, Spark, Python, C, AI/ML, or pathfinding algorithms**
 - 📫 Reach me at: **rohithsarma738@gmail.com**
-- ⚡ Fun fact: I visualize algorithms in my head before writing a single line of code
+- ⚡ Fun fact: I built a programming language from scratch before my 3rd year ended
 
 ---
 
@@ -32,7 +32,9 @@ Right now I'm fascinated by **Large Language Models** and **Generative AI** — 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -85,7 +87,9 @@ Right now I'm fascinated by **Large Language Models** and **Generative AI** — 
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**pathvis**](https://github.com/HAZE-16/pathvis) | Interactive pathfinding algorithm visualizer — BFS, DFS, A* and more | `Python` |
+| [**dsl-maths**](https://github.com/HAZE-16/dsl-maths) | Built a complete programming language from scratch — lexer, parser, AST, bytecode compiler and a stack-based VM | `C` |
+| [**realtime-code-editor**](https://github.com/HAZE-16/realtime-code-editor) | Real-time collaborative code editor where multiple users can write and edit code together live | `JavaScript` `React` |
+| [**pathvis**](https://github.com/HAZE-16/pathvis) | Pathfinding algorithm visualizer — watch BFS and DFS navigate a grid in real time | `Python` |
 | 🔧 *Coming soon* | End-to-end data pipeline with batch processing | `Spark` `Hadoop` `Hive` `Python` |
 | 🔧 *Coming soon* | LLM-powered data query assistant | `Python` `MongoDB` `SQL` `GenAI` |
 
