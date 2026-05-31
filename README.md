@@ -1,24 +1,29 @@
 <div align="center">
 
-# Hi there, I'm Rohit Sharma 👋
+# Hey, I'm Rohit Sharma 👋
 
-### B.Tech 3rd Year · AI & Deep Learning Enthusiast · LLM Builder
+### B.Tech · AI & Data Science · Software Engineering Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Passionate+about+Generative+AI;Building+with+LLMs+%26+Transformers;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=560&lines=B.Tech+AI+%26+DS+%7C+Forever+a+Student;Wrangling+Data+with+SQL+%26+Spark;Exploring+AI%2C+LLMs+%26+Generative+AI;Building+one+project+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About me
+## Who am I?
 
-I'm a B.Tech student specializing in AI & Machine Learning, with a deep interest in **Large Language Models**, **Generative AI**, and **Deep Learning**. I love building things that actually work — from RAG pipelines to fine-tuned models.
+I'm **Rohit Sharma**, a passionate B.Tech student specializing in **Artificial Intelligence & Data Science**. I'm that guy who gets genuinely excited when a SQL query runs faster than expected or when a Spark job finally stops throwing memory errors at 2 AM.
 
-- 🔭 Currently exploring: **RAG systems, LLM fine-tuning, and AI agents**
-- 🌱 Learning: **LangChain, HuggingFace Transformers, LoRA / QLoRA**
-- 💬 Ask me about: **Python, Deep Learning, Generative AI, Pathfinding algorithms**
-- 📫 Reach me at: *(add your email or LinkedIn here)*
-- ⚡ Fun fact: I visualize algorithms before I code them
+My coursework dives deep into AI, Machine Learning, and the data engineering pipelines that power them — but I don't stop at the classroom. I'm always tinkering, building, and breaking things to understand how they actually work under the hood.
+
+Right now I'm fascinated by **Large Language Models** and **Generative AI** — the way they're reshaping everything from data pipelines to how we write code is just wild, and I want to be someone who *builds* with these technologies, not just reads about them.
+
+- 🎓 Pursuing **B.Tech in AI & Data Science**
+- 🔭 Currently exploring: **Generative AI, LLMs, and Big Data systems**
+- 🛠️ Love building: **data pipelines, ML models, and algorithm visualizers**
+- 💬 Ask me about: **SQL, Spark, Python, AI/ML, or pathfinding algorithms**
+- 📫 Reach me at: **rohithsarma738@gmail.com**
+- ⚡ Fun fact: I visualize algorithms in my head before writing a single line of code
 
 ---
 
@@ -27,16 +32,27 @@ I'm a B.Tech student specializing in AI & Machine Learning, with a deep interest
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Big Data & Databases**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Pig](https://img.shields.io/badge/Apache%20Pig-F5820D?style=for-the-badge&logo=apache&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Tools & Platforms**
 
@@ -44,8 +60,7 @@ I'm a B.Tech student specializing in AI & Machine Learning, with a deep interest
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -71,16 +86,23 @@ I'm a B.Tech student specializing in AI & Machine Learning, with a deep interest
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**pathvis**](https://github.com/HAZE-16/pathvis) | Interactive pathfinding algorithm visualizer — BFS, DFS, A* and more | `Python` |
-| 🔧 *Coming soon* | RAG-powered PDF chatbot | `LangChain` `FAISS` `Python` |
-| 🔧 *Coming soon* | Fine-tuned LLM on custom dataset | `HuggingFace` `LoRA` `PyTorch` |
+| 🔧 *Coming soon* | End-to-end data pipeline with batch processing | `Spark` `Hadoop` `Hive` `Python` |
+| 🔧 *Coming soon* | LLM-powered data query assistant | `Python` `MongoDB` `SQL` `GenAI` |
 
 ---
 
-## Currently reading / studying
+## What I'm studying right now
 
-- 📄 *Attention Is All You Need* — Vaswani et al.
-- 📄 *RLHF* papers — learning how ChatGPT-style models are trained
-- 📚 *Hands-On Machine Learning* — Aurélien Géron
+**In class:**
+- Data Warehousing with **Hive** and **Pig**
+- Distributed computing with **Hadoop** & **Spark**
+- NoSQL systems — **MongoDB** at scale
+- Machine Learning fundamentals & Neural Networks
+
+**On my own:**
+- How **Large Language Models** actually work (transformers, attention, RLHF)
+- **Generative AI** — text, code, and what comes next
+- Reading: *Hands-On Machine Learning* — Aurélien Géron
 
 ---
 
@@ -98,7 +120,7 @@ I'm a B.Tech student specializing in AI & Machine Learning, with a deep interest
 
 <div align="center">
 
-*"The best way to understand AI is to build it."*
+*"Data is the new oil — but only if you know how to refine it."*
 
 ![Profile views](https://komarev.com/ghpvc/?username=HAZE-16&color=7F77DD&style=flat-square)
 
